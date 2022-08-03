@@ -1,0 +1,4 @@
+---
+ - hosts: host1
+   roles:
+     - WebServer
