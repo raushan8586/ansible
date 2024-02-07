@@ -1,4 +1,4 @@
-Handler gets triggered from notify and executed at the end only once.
+Handler gets triggered from notify and executed at the end of the play only once.
 Handlers are tasks that only run when notified.
 =============================================================================
 ---
