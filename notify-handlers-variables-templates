@@ -1,4 +1,5 @@
 Handler gets triggered from notify and executed at the end only once.
+Handlers are tasks that only run when notified.
 =============================================================================
 ---
 handlers:
